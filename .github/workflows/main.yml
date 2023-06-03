@@ -1,0 +1,33 @@
+name: Run Code
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - active.txt
+
+jobs:
+  run-code:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Check if active.txt exists
+        id: check-active-file
+        run: |
+          if [ -f active.txt ]; then
+            echo "::set-output name=active::true"
+          else
+            echo "::set-output name=active::false"
+          fi
+
+      - name: Run go-cqhttp.bat
+        run: ./go-cqhttp.bat
+        if: steps.check-active-file.outputs.active == 'true'
+
+      - name: Run main.py
+        run: python3 QChatGPT/main.py
+        if: steps.check-active-file.outputs.active == 'true'
