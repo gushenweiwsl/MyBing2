@@ -24,6 +24,9 @@ jobs:
             echo "::set-output name=active::false"
           fi
 
+      - name: Grant execute permission to go-cqhttp.bat
+         run: chmod +x go-cqhttp.bat
+
       - name: Run go-cqhttp.bat
         run: ./go-cqhttp.bat
         if: steps.check-active-file.outputs.active == 'true'
