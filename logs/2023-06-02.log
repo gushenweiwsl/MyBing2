@@ -1,0 +1,44 @@
+[2023-06-02 20:37:08] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2023-06-02 20:37:18] [WARNING]: 登录失败: 登录失败，建议升级最新版本后重试，或通过问题反馈与我们联系。 Code: 45 
+[2023-06-02 20:37:18] [WARNING]: 你的账号涉嫌违规被限制在非常用设备登录, 请在手机QQ登录并根据提示完成认证 
+[2023-06-02 20:37:18] [WARNING]: 或使用 -update-protocol 升级到最新协议后重试 
+[2023-06-02 20:57:18] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-06-02 20:57:19] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10005 
+[2023-06-02 20:57:33] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10005 
+[2023-06-02 21:10:36] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2023-06-02 21:10:42] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-06-02 21:11:30] [WARNING]: 登录失败: 登录失败，建议升级最新版本后重试，或通过问题反馈与我们联系。 Code: 45 
+[2023-06-02 21:11:30] [WARNING]: 你的账号涉嫌违规被限制在非常用设备登录, 请在手机QQ登录并根据提示完成认证 
+[2023-06-02 21:11:30] [WARNING]: 或使用 -update-protocol 升级到最新协议后重试 
+[2023-06-02 21:53:58] [ERROR]: 获取T544时出现问题: Post "https://captcha.go-cqhttp.org/sdk/dandelion/energy": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2023-06-02 21:53:58] [WARNING]: 登录失败: 你当前使用的QQ版本过低，请前往QQ官网im.qq.com下载最新版QQ后重试。 Code: 45 
+[2023-06-02 21:53:58] [WARNING]: 你的账号涉嫌违规被限制在非常用设备登录, 请在手机QQ登录并根据提示完成认证 
+[2023-06-02 21:53:58] [WARNING]: 或使用 -update-protocol 升级到最新协议后重试 
+[2023-06-02 22:13:58] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-06-02 22:13:59] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10005 
+[2023-06-02 22:14:13] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10005 
+[2023-06-02 22:14:28] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2023-06-02 22:25:51] [ERROR]: 获取T544时出现问题: Post "https://captcha.go-cqhttp.org/sdk/dandelion/energy": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2023-06-02 22:25:51] [WARNING]: 登录失败: 你当前使用的QQ版本过低，请前往QQ官网im.qq.com下载最新版QQ后重试。 Code: 45 
+[2023-06-02 22:25:51] [WARNING]: 你的账号涉嫌违规被限制在非常用设备登录, 请在手机QQ登录并根据提示完成认证 
+[2023-06-02 22:25:51] [WARNING]: 或使用 -update-protocol 升级到最新协议后重试 
+[2023-06-02 22:26:27] [WARNING]: 登录失败: 登录失败，建议升级最新版本后重试，或通过问题反馈与我们联系。 Code: 45 
+[2023-06-02 22:26:27] [WARNING]: 你的账号涉嫌违规被限制在非常用设备登录, 请在手机QQ登录并根据提示完成认证 
+[2023-06-02 22:26:27] [WARNING]: 或使用 -update-protocol 升级到最新协议后重试 
+[2023-06-02 22:27:02] [WARNING]: 登录失败: 登录失败，建议升级最新版本后重试，或通过问题反馈与我们联系。 Code: 45 
+[2023-06-02 22:27:02] [WARNING]: 你的账号涉嫌违规被限制在非常用设备登录, 请在手机QQ登录并根据提示完成认证 
+[2023-06-02 22:27:02] [WARNING]: 或使用 -update-protocol 升级到最新协议后重试 
+[2023-06-02 22:29:00] [WARNING]: 登录失败: 登录失败，建议升级最新版本后重试，或通过问题反馈与我们联系。 Code: 45 
+[2023-06-02 22:29:00] [WARNING]: 你的账号涉嫌违规被限制在非常用设备登录, 请在手机QQ登录并根据提示完成认证 
+[2023-06-02 22:29:00] [WARNING]: 或使用 -update-protocol 升级到最新协议后重试 
+[2023-06-02 22:30:41] [WARNING]: 登录失败: 登录失败，建议升级最新版本后重试，或通过问题反馈与我们联系。 Code: 45 
+[2023-06-02 22:30:41] [WARNING]: 你的账号涉嫌违规被限制在非常用设备登录, 请在手机QQ登录并根据提示完成认证 
+[2023-06-02 22:30:41] [WARNING]: 或使用 -update-protocol 升级到最新协议后重试 
+[2023-06-02 22:38:13] [WARNING]: 登录失败: 登录失败，建议升级最新版本后重试，或通过问题反馈与我们联系。 Code: 45 
+[2023-06-02 22:38:13] [WARNING]: 你的账号涉嫌违规被限制在非常用设备登录, 请在手机QQ登录并根据提示完成认证 
+[2023-06-02 22:38:13] [WARNING]: 或使用 -update-protocol 升级到最新协议后重试 
+[2023-06-02 22:43:23] [ERROR]: 获取T544时出现问题: Post "https://captcha.go-cqhttp.org/sdk/dandelion/energy": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2023-06-02 22:43:23] [WARNING]: 登录失败: 请使用手Q扫描二维码或短信登录。 Code: 238 
+[2023-06-02 22:43:46] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-06-02 22:43:46] [WARNING]: 将在 5秒 后继续. 
+[2023-06-02 22:44:51] [WARNING]: Protocol -> device lock is disable. http api may fail. 

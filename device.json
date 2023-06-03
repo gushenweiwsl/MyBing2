@@ -1,0 +1,33 @@
+{
+    "display": "MacBook Pro",
+    "product": "Apple",
+    "device": "MacBookPro14,3",
+    "board": "Mac-551B86E5744E2388",
+    "model": "MacBook Pro",
+    "finger_print": "Apple/macOS/11.4/Mac-551B86E5744E2388:user/release-keys",
+    "boot_id": "37d0a750-8221-bf1d-3fda-e9479f179488",
+    "proc_version": "Darwin Kernel Version 20.5.0: Sat May  8 05:10:33 PDT 2021; root:xnu-7195.121.3~9/RELEASE_X86_64",
+    "protocol": 2,
+    "imei": "",
+    "brand": "Apple",
+    "bootloader": "unknown",
+    "base_band": "",
+    "version": {
+      "incremental": "20.5.0",
+      "release": "11.4",
+      "codename": "REL",
+      "sdk": 20
+    },
+    "sim_info": "",
+    "os_type": "mac",
+    "mac_address": "00:50:56:C0:00:08",
+    "ip_address": [192, 168, 1, 10],
+    "wifi_bssid": "00:50:56:C0:00:08",
+    "wifi_ssid": "<unknown ssid>",
+    "imsi_md5": "",
+    "android_id": "",
+    "apn": "wifi",
+    "vendor_name": "Apple",
+    "vendor_os_name": "macOS"
+  }
+  
